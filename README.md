@@ -4,6 +4,10 @@
 
 # Knowledge Check Answers
 
+# -----------------------
+
+# How Does the Web Work?
+
 What is a web server?
 
 -- A web server is the hardware and/or software that responds to requests from clients on the world wide web.
