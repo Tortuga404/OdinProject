@@ -114,4 +114,29 @@ How do you destroy a directory or file?
 How do you rename a directory or file?
 
 -- mv [old name] [new name]
+#
+# Introduction to Git
 
+What kind of program is Git?
+
+-- Git is a Version Control System (VCS) program.
+
+What are the differences between Git and a text editor in terms of what they save and their record keeping?
+
+-- Git records changes to files over time, while a text editor simply allows you to edit files and overwrite what was previously available.
+
+Does Git work at a local or remote level?
+
+-- Git works at a local level, on your local machine.
+
+Does GitHub work at a local or remote level?
+
+-- GitHub works at a remote level, by hosting a repository of your files and their different version histories.
+
+Why is Git useful for developers?
+
+-- Git is useful for developers because it allows developers to save previous versions of their work whilst tracking changes, and as a result developers can develop with the peace of mind that any mistake won't be truly fatal to their project, since there are backups.
+
+Why are Git and GitHub useful for a team of developers?
+
+-- Git and GitHub make collaborating on a project seamless. Through these programs, developers can work in their own branches, see the work of their collegues on other branches, and keep up to date with the latest version of the repo on the main branch.
