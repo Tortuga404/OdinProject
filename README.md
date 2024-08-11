@@ -69,7 +69,7 @@ In your own words, describe the process that takes place when you initiate a sea
 -- From the top, you connect a modem to an ISP to get internet access. You connect a router to the modem to route this internet access to the devices in your home network. Let's say you decide to use your computer which is connected to the internet to find something. You open up the web browser Chrome, and are greeted by the website, Google. From there you search with Google and select a web page. The operating system of the client makes a DNS request to the DNS server for the IP address of this web page. Once this is provided, the web server that is hosting the web page can be located via the IP address, and the browser makes a http GET request on a port of the web server (usually 80). The web server then displays the web page to the client if the request was successful.
 
 #
-# CLI Basics
+# Command Line Basics
 
 What is the command line?
 
