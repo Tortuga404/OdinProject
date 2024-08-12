@@ -140,3 +140,50 @@ Why is Git useful for developers?
 Why are Git and GitHub useful for a team of developers?
 
 -- Git and GitHub make collaborating on a project seamless. Through these programs, developers can work in their own branches, see the work of their collegues on other branches, and keep up to date with the latest version of the repo on the main branch.
+
+#
+# Git Basics
+
+How do you create a new repository on GitHub?
+
+-- Click "+" on creating a new repository.
+
+How do you copy a repository onto your local machine from GitHub?
+
+-- git clone
+
+What is the default name of your remote connection?
+
+-- origin
+
+Explain what origin is in git push origin main.
+
+-- "origin" is shorthand for the url of the remote repository where the local repo was cloned from.
+
+Explain what main is in git push origin main.
+
+-- "main" is the name of the main branch of your remote repository.
+
+Explain the two-stage system that Git uses to save files.
+
+-- First you git add the files to staging with the changes that you want already done, and then you git commit those changes on your local machine
+
+How do you check the status of your current repository?
+
+-- git status
+
+How do you add files to the staging area in Git?
+
+-- git add
+
+How do you commit the files in the staging area and add a descriptive message?
+
+-- git commit -m
+
+How do you push your changes to your repository on GitHub?
+
+-- git push
+
+How do you look at the history of your previous commits?
+
+-- git log
