@@ -187,3 +187,23 @@ How do you push your changes to your repository on GitHub?
 How do you look at the history of your previous commits?
 
 -- git log
+
+#
+# Introduction to HTML and CSS
+
+What do HTML and CSS stand for?
+
+-- HTML stands for hypertext markup language. CSS stands for cascading styles sheets.
+
+Between HTML and CSS, which would you use for putting paragraphs of text on a webpage?
+
+-- You would use html for putting paragraphs of text on a webpage.
+
+Between HTML and CSS, which would you use for changing the font and background color of a button?
+
+--You would use CSS for changing the font and background color of a button.
+
+What is the difference between HTML, CSS and JavaScript?
+
+-- HTML is your base. The basic structure of a webpage and text contents of the page are built with it. CSS is used to make HTML elements looker nicer/ more modern. Javascript is used to enhance the iteractivity of the website and user functions. 
+
