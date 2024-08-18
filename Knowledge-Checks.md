@@ -219,3 +219,23 @@ What are the three parts of an HTML element?
 -- An HTML element consists of an opening tag, some form of content, and a closing tag.
 
 #
+# HTML Boilerplate
+
+What is the purpose of the doctype declaration?
+
+-- This tells the browser what version of markup language is being used by the file.
+
+What is the HTML element?
+
+-- This is a subsection of an .html file that contains a certain type of content, wrapped in tags (which describe the content).
+
+What is the purpose of the head element?
+
+-- The head element is used to store content that doesn't show up in the webpage itself. For example, the "title" element contains the words written in the tab space, and "meta" is used to store metadata like the UTF type.
+
+What is the purpose of the body element?
+
+-- The body element stores the content that is displayed on the page and shown to the user.
+
+#
+#
