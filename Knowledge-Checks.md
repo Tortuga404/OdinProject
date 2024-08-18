@@ -238,4 +238,37 @@ What is the purpose of the body element?
 -- The body element stores the content that is displayed on the page and shown to the user.
 
 #
-#
+# Working With Text
+
+How do you create a paragraph in HTML?
+
+-- You create a paragraph in html using the "p" tag
+
+How do you create a heading in HTML?
+
+-- You can create a heading in HTML using the "h#" tag. # can be 1-6.
+
+How many different levels of headings are there and what is the difference between them?
+
+-- There are six levels of headings, 1 - 6. 1 is the most important and largest in screen, 6 is the opposite.
+
+What element should you use to make text bold and important?
+
+-- Use the "strong" element.
+
+What element should you use to make text italicized to add emphasis to it?
+
+-- Use the "em" element.
+
+What relationship does an element have with any nested elements within it?
+
+-- A parent child relationship where the child elements belong / pertain to the parent elements.
+
+What relationship do two elements have if they are at the same level of nesting?
+
+-- This means they hold an equal level.
+
+How do you create HTML comments?
+
+-- Using <, and exclamation point, and --, and closing using -- with >. You can also start comments using cntrl + /.
+
