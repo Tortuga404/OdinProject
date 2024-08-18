@@ -207,3 +207,15 @@ What is the difference between HTML, CSS and JavaScript?
 
 -- HTML is your base. The basic structure of a webpage and text contents of the page are built with it. CSS is used to make HTML elements looker nicer/ more modern. Javascript is used to enhance the iteractivity of the website and user functions. 
 
+#
+# Introduction to HTML and CSS
+
+What is an HTML tag?
+
+-- HTML tags are the opening and closings of HTML elements. Tags basically tell the browser what the content inside the tags are.
+
+What are the three parts of an HTML element?
+
+-- An HTML element consists of an opening tag, some form of content, and a closing tag. Example: <p> dog </p>
+
+#
