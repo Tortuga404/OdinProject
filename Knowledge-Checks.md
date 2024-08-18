@@ -288,4 +288,43 @@ What HTML element is used to create list items within both unordered and ordered
 -- "li" element
 
 #
+# Links and Images
+
+What element is used to create a link?
+
+-- The "a" element.
+
+What is an attribute?
+
+-- Additional information that goes into an element to dictate its functionality.
+
+What attribute tells links where to go to?
+
+-- The "href" attribute.
+
+What security considerations must be taken if you wish to use the target attribute to open links in a new tab/window?
+
+-- rel="noopener noreferrer" to prevent the clicked link from gaining access to the webpage that accessed it, and knowing what webpage accessed it.
+
+What is the difference between an absolute and relative link?
+
+-- A relative link is able to access webpages within our own website / directories, while a absolute link points to a location anywhere on the internet.
+
+Which element is used to display an image?
+
+-- The "img" element.
+
+What two attributes do images always need to have?
+
+-- Imgs always need a "src" and "alt".
+
+How do you access a parent directory in a filepath?
+
+-- Using ../ to go a step back.
+
+What are the four main image formats that you can use for images on the web?
+
+-- .jpg, .gif, .png, .svg
+
+#
 # 
