@@ -216,6 +216,6 @@ What is an HTML tag?
 
 What are the three parts of an HTML element?
 
--- An HTML element consists of an opening tag, some form of content, and a closing tag. Example: "<p> dog </p>"
+-- An HTML element consists of an opening tag, some form of content, and a closing tag.
 
 #
