@@ -327,4 +327,15 @@ What are the four main image formats that you can use for images on the web?
 -- .jpg, .gif, .png, .svg
 
 #
-# 
+# Commit Messages
+
+What are two benefits of having well-written commit messages and a good commit history?
+
+-- Two benefits are making code more maintanable by providing relevant context., and making it easier to understand what the developer was thinking when they made the commit.
+
+How many characters should the subject line of your commit message be?
+
+-- 50 or less.
+
+#
+#
